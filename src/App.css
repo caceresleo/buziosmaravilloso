@@ -1,0 +1,152 @@
+* {
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+}
+
+html, body{
+  font-family: Arial;
+  font-size: 20px;
+  background: white;  /* fallback for old browsers */
+}
+
+h1{
+  max-width: 940px;
+  font-size: 2.5em;
+  font-weight: 700;
+  line-height: 1.1;
+  margin: 40px 0;
+}
+
+
+@font-face {
+  font-family: 'jokerman' ;
+  src: url('../public/fonts/jokerman.ttf') format('truetype');
+}
+
+.App{
+  width: 100%;
+   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.Cabecera {
+  width: 100%;
+  height: 60px;
+  background-color: #04aded;
+  font-family: jokerman;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items:center; 
+    z-index: 999;
+
+}
+
+.barraNavegador{
+  width: 90%;
+}
+
+.ContenidosPaginas{
+    width: 100%;
+   min-height: 90vh;
+}
+
+
+.navBg {
+  background-color: #04aded;
+}
+
+
+.itemsmenu {
+    font-weight: normal;  
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+
+}
+
+.itemsmenu:hover {
+  color: white;
+  text-decoration: underline;
+}
+.material-icons {
+        padding: 10px;
+        font-size: 40px;
+        width: 40px;
+        text-decoration: none;
+        margin: 5px 80px;
+    }
+  
+
+.facebook {
+        background: #3b5998;
+        color: white;
+    }
+.cabeceraLogo {
+         text-decoration: none;
+         cursor: pointer;
+         user-select: none; 
+         position: relative;
+         margin-top: 55px;
+
+}    
+
+.redesSociales {
+
+
+
+}    
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 480px) { /* pantalla hasta 480px */
+
+.Cabecera {
+  width: 100%;
+  height: auto;
+  flex-direction: row-reverse;
+  align-items:baseline; 
+  z-index: 999;
+}
+
+.barraNavegador{
+  width: 30%;
+  margin-left: -40%;
+}
+
+.cabeceraLogo {
+         margin-top: 5px;
+         margin-left: 5%;
+}   
+
+.container{
+     background-color: transparent;
+
+
+}
+
+.navbar-collapse{
+   background-color: #04aded;
+   margin-left: -5px;
+   margin-bottom: -10px;
+}
+
+.redesSociales{
+  display: none;
+}
+
+
+
+
+}

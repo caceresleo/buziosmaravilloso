@@ -1,0 +1,24 @@
+footer {
+  background-color: #04aded;
+  text-align: center;
+  margin-top: auto;
+  padding: 8px;
+}
+
+/*
+.footer{
+  background-color: #04aded;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+*/
+
+@media screen and (max-width: 480px) { /* pantalla hasta 480px */
+
+
+}
