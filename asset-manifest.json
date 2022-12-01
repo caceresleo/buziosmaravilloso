@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/buziosmaravilloso/static/css/main.a496f94e.css",
+    "main.js": "/buziosmaravilloso/static/js/main.aef5b45c.js",
+    "static/js/845.0d09d2aa.chunk.js": "/buziosmaravilloso/static/js/845.0d09d2aa.chunk.js",
+    "static/media/apartamentos.mp3": "/buziosmaravilloso/static/media/apartamentos.f34174b05ad8cf6c1850.mp3",
+    "static/media/casas.mp3": "/buziosmaravilloso/static/media/casas.0c0da24d30e52e01b3bf.mp3",
+    "static/media/posadas.mp3": "/buziosmaravilloso/static/media/posadas.413f19c41eb5560e527e.mp3",
+    "static/media/fotomail.jpeg": "/buziosmaravilloso/static/media/fotomail.29d55f8e0a397ccb470e.jpeg",
+    "static/media/jokerman.ttf": "/buziosmaravilloso/static/media/jokerman.edec23402db3b372976c.ttf",
+    "index.html": "/buziosmaravilloso/index.html",
+    "main.a496f94e.css.map": "/buziosmaravilloso/static/css/main.a496f94e.css.map",
+    "main.aef5b45c.js.map": "/buziosmaravilloso/static/js/main.aef5b45c.js.map",
+    "845.0d09d2aa.chunk.js.map": "/buziosmaravilloso/static/js/845.0d09d2aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a496f94e.css",
+    "static/js/main.aef5b45c.js"
+  ]
+}
