@@ -28,7 +28,6 @@ const ImageSlider = ({slides}) => {
 	const sliderStyles = {
 		height: '100%',
 		position: 'relative',
-		backgroundColor: 'red',
 	};
 	const slideStyles = {
 		width: '100%',
@@ -50,7 +49,7 @@ const ImageSlider = ({slides}) => {
 
 	const dotsContainerStyles = {
 		marginTop: '10px',
-		height: '100px',
+		height: '80px',
 		display: 'flex',
 		justifyContent: 'center',
 	};

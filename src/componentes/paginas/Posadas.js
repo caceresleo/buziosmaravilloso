@@ -2,13 +2,18 @@ import '../../stylesheets/Alojamientos.css';
 
 import ImageSlider from '../plantillas/ImageSlider';
 
+import posada1 from "../../imagenes/posadas/Image.jpeg";
+import posada2 from "../../imagenes/posadas/Image_1.jpeg";
+import posada3 from "../../imagenes/posadas/Image_2.jpeg";
+import posada4 from "../../imagenes/posadas/Image_3.jpeg";
+
 const Posadas = () => {
 
 	const slides = [
-	   {url: 'http://localhost:3000/imagenes/posadas/Image.jpeg', title: 'posada1'},
-	   {url: 'http://localhost:3000/imagenes/posadas/Image_1.jpeg', title: 'posada2'},
-	   {url: 'http://localhost:3000/imagenes/posadas/Image_2.jpeg', title: 'posada3'},
-	   {url: 'http://localhost:3000/imagenes/posadas/Image_3.jpeg', title: 'posada4'}
+	   {url: `${posada1}`, title: 'posada1'},
+	   {url: `${posada2}`, title: 'posada2'},
+	   {url: `${posada3}`, title: 'posada3'},
+	   {url: `${posada4}`, title: 'posada4'}
 	];
 
 

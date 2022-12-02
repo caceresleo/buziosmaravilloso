@@ -1,12 +1,16 @@
 import ImageSlider from '../plantillas/ImageSlider';
 
+import apartamento1 from "../../imagenes/apartamento/Image.jpeg";
+import apartamento2 from "../../imagenes/apartamento/Image_1.jpeg";
+import apartamento3 from "../../imagenes/apartamento/Image_2.jpeg";
+
 
 const Apartamentos = () => {
 
 	const slides = [
-	   {url: 'http://localhost:3000/imagenes/apartamento/Image.jpeg', title: 'apart1'},
-	   {url: 'http://localhost:3000/imagenes/apartamento/Image_1.jpeg', title: 'apart2'},
-	   {url: 'http://localhost:3000/imagenes/apartamento/Image_2.jpeg', title: 'apart3'}
+	   {url: `${apartamento1}`, title: 'apart1'},
+	   {url: `${apartamento2}`, title: 'apart2'},
+	   {url: `${apartamento3}`, title: 'apart3'},
 
 	];	
 

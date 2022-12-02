@@ -1,13 +1,19 @@
 import ImageSlider from '../plantillas/ImageSlider';
 
+import casa1 from "../../imagenes/casas/Image.jpeg";
+import casa2 from "../../imagenes/casas/Image_1.jpeg";
+import casa3 from "../../imagenes/casas/Image_2.jpeg";
+import casa4 from "../../imagenes/casas/Image_3.jpeg";
+import casa5 from "../../imagenes/casas/Image_4.jpeg";
+
 const Casas = () => {
 
 	const slides = [
-	   {url: 'http://localhost:3000/imagenes/casas/Image.jpeg', title: 'casa1'},
-	   {url: 'http://localhost:3000/imagenes/casas/Image_1.jpeg', title: 'casa2'},
-	   {url: 'http://localhost:3000/imagenes/casas/Image_2.jpeg', title: 'casa3'},
-	   {url: 'http://localhost:3000/imagenes/casas/Image_3.jpeg', title: 'casa4'},
-	   {url: 'http://localhost:3000/imagenes/casas/Image_4.jpeg', title: 'casa5'}
+	   {url: `${casa1}`, title: 'casa1'},
+	   {url: `${casa2}`, title: 'casa2'},
+	   {url: `${casa3}`, title: 'casa3'},
+	   {url: `${casa4}`, title: 'casa4'},
+	   {url: `${casa5}`, title: 'casa5'}
 
 	];	
 	return (
