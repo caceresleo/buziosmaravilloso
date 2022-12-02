@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/buziosmaravilloso/static/css/main.a496f94e.css",
-    "main.js": "/buziosmaravilloso/static/js/main.aef5b45c.js",
+    "main.css": "/buziosmaravilloso/static/css/main.7e132dec.css",
+    "main.js": "/buziosmaravilloso/static/js/main.4194e985.js",
     "static/js/845.0d09d2aa.chunk.js": "/buziosmaravilloso/static/js/845.0d09d2aa.chunk.js",
     "static/media/apartamentos.mp3": "/buziosmaravilloso/static/media/apartamentos.f34174b05ad8cf6c1850.mp3",
     "static/media/casas.mp3": "/buziosmaravilloso/static/media/casas.0c0da24d30e52e01b3bf.mp3",
     "static/media/posadas.mp3": "/buziosmaravilloso/static/media/posadas.413f19c41eb5560e527e.mp3",
+    "static/media/Image.jpeg": "/buziosmaravilloso/static/media/Image.e1cd4313b823a9fcdc2f.jpeg",
+    "static/media/Image_2.jpeg": "/buziosmaravilloso/static/media/Image_2.6ced96ecb6ef60269d9a.jpeg",
+    "static/media/Image_1.jpeg": "/buziosmaravilloso/static/media/Image_1.d2c7ec692641370ed62e.jpeg",
+    "static/media/Image_4.jpeg": "/buziosmaravilloso/static/media/Image_4.ba1ad3e99242ecc27fcd.jpeg",
+    "static/media/Image_3.jpeg": "/buziosmaravilloso/static/media/Image_3.ac22a0b47130650923d8.jpeg",
     "static/media/fotomail.jpeg": "/buziosmaravilloso/static/media/fotomail.29d55f8e0a397ccb470e.jpeg",
     "static/media/jokerman.ttf": "/buziosmaravilloso/static/media/jokerman.edec23402db3b372976c.ttf",
     "index.html": "/buziosmaravilloso/index.html",
-    "main.a496f94e.css.map": "/buziosmaravilloso/static/css/main.a496f94e.css.map",
-    "main.aef5b45c.js.map": "/buziosmaravilloso/static/js/main.aef5b45c.js.map",
+    "main.7e132dec.css.map": "/buziosmaravilloso/static/css/main.7e132dec.css.map",
+    "main.4194e985.js.map": "/buziosmaravilloso/static/js/main.4194e985.js.map",
     "845.0d09d2aa.chunk.js.map": "/buziosmaravilloso/static/js/845.0d09d2aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a496f94e.css",
-    "static/js/main.aef5b45c.js"
+    "static/css/main.7e132dec.css",
+    "static/js/main.4194e985.js"
   ]
 }
