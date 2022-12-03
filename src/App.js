@@ -26,6 +26,8 @@ import Boton from './componentes/Boton';
 
 import { BrowserRouter, Link, Route, Routes} from 'react-router-dom';
 
+import Inicio from "./componentes/paginas/Inicio";
+
 import Presentacion from "./componentes/paginas/Presentacion";
 import Posadas from "./componentes/paginas/Posadas";
 import Casas from "./componentes/paginas/Casas";
@@ -46,7 +48,7 @@ function App() {
 
 
             <div className="Cabecera">
-                   <Link className="cabeceraLogo" to="../paginas/Inicio" ><Logo /></Link>
+                   <Link className="cabeceraLogo" to="/paginas/Inicio" ><Logo /></Link>
                    <div  className="barraNavegador">
                       <NavegacionPpal />
                    </div>   
@@ -59,8 +61,9 @@ function App() {
 
 
                       <Routes>
-                        <Route path="/presentacion" element={<Presentacion />} />
+                        <Route path="/paginas/Inicio" element={<Inicio />} />
 
+                        <Route path="/presentacion" element={<Presentacion />} />
                         <Route path="/alojamientos/posadas" element={<Posadas />} />      
                         <Route path="/alojamientos/casas" element={<Casas />} />          
                         <Route path="/alojamientos/apartamentos" element={<Apartamentos />} />    

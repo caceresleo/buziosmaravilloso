@@ -1,10 +1,9 @@
-import React from 'react';
+import '../../stylesheets/Inicio.css';
 
 const Inicio = () => {
 	return (
-		<div>
-						<h1> esta es la pagina de inicio </h1>
-{    console.log('inicio')}
+		<div  className="paginaInicio">
+
 		</div>
 		)
 }
