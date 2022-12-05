@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/buziosmaravilloso/static/css/main.6acd7abb.css",
-    "main.js": "/buziosmaravilloso/static/js/main.3a26ed6c.js",
+    "main.css": "/buziosmaravilloso/static/css/main.2db96c9b.css",
+    "main.js": "/buziosmaravilloso/static/js/main.25b7cb68.js",
     "static/js/845.0d09d2aa.chunk.js": "/buziosmaravilloso/static/js/845.0d09d2aa.chunk.js",
     "static/media/apartamentos.mp3": "/buziosmaravilloso/static/media/apartamentos.f34174b05ad8cf6c1850.mp3",
     "static/media/casas.mp3": "/buziosmaravilloso/static/media/casas.0c0da24d30e52e01b3bf.mp3",
@@ -15,12 +15,12 @@
     "static/media/portada.jpeg": "/buziosmaravilloso/static/media/portada.97d2102ec0ef99f6759d.jpeg",
     "static/media/jokerman.ttf": "/buziosmaravilloso/static/media/jokerman.edec23402db3b372976c.ttf",
     "index.html": "/buziosmaravilloso/index.html",
-    "main.6acd7abb.css.map": "/buziosmaravilloso/static/css/main.6acd7abb.css.map",
-    "main.3a26ed6c.js.map": "/buziosmaravilloso/static/js/main.3a26ed6c.js.map",
+    "main.2db96c9b.css.map": "/buziosmaravilloso/static/css/main.2db96c9b.css.map",
+    "main.25b7cb68.js.map": "/buziosmaravilloso/static/js/main.25b7cb68.js.map",
     "845.0d09d2aa.chunk.js.map": "/buziosmaravilloso/static/js/845.0d09d2aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6acd7abb.css",
-    "static/js/main.3a26ed6c.js"
+    "static/css/main.2db96c9b.css",
+    "static/js/main.25b7cb68.js"
   ]
 }
