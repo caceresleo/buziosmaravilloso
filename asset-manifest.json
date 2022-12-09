@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/buziosmaravilloso/static/css/main.2db96c9b.css",
-    "main.js": "/buziosmaravilloso/static/js/main.2f8f93a4.js",
-    "static/js/845.0d09d2aa.chunk.js": "/buziosmaravilloso/static/js/845.0d09d2aa.chunk.js",
+    "main.css": "/buziosmaravilloso/static/css/main.728cec20.css",
+    "main.js": "/buziosmaravilloso/static/js/main.f3407b2a.js",
+    "static/js/845.b22382d3.chunk.js": "/buziosmaravilloso/static/js/845.b22382d3.chunk.js",
     "static/media/apartamentos.mp3": "/buziosmaravilloso/static/media/apartamentos.f34174b05ad8cf6c1850.mp3",
     "static/media/casas.mp3": "/buziosmaravilloso/static/media/casas.0c0da24d30e52e01b3bf.mp3",
     "static/media/posadas.mp3": "/buziosmaravilloso/static/media/posadas.413f19c41eb5560e527e.mp3",
@@ -11,16 +11,25 @@
     "static/media/Image_1.jpeg": "/buziosmaravilloso/static/media/Image_1.d2c7ec692641370ed62e.jpeg",
     "static/media/Image_4.jpeg": "/buziosmaravilloso/static/media/Image_4.ba1ad3e99242ecc27fcd.jpeg",
     "static/media/Image_3.jpeg": "/buziosmaravilloso/static/media/Image_3.ac22a0b47130650923d8.jpeg",
+    "static/media/canoa2.jpg": "/buziosmaravilloso/static/media/canoa2.3970fee85d2487cc0df1.jpg",
+    "static/media/moto2.jpg": "/buziosmaravilloso/static/media/moto2.a9b8520c0c2a06807ffb.jpg",
+    "static/media/buceo1.jpg": "/buziosmaravilloso/static/media/buceo1.a9ac1726c350948464f0.jpg",
     "static/media/fotomail.jpeg": "/buziosmaravilloso/static/media/fotomail.29d55f8e0a397ccb470e.jpeg",
     "static/media/portada.jpeg": "/buziosmaravilloso/static/media/portada.97d2102ec0ef99f6759d.jpeg",
+    "static/media/moto1.jpg": "/buziosmaravilloso/static/media/moto1.a926299930b328b7c774.jpg",
+    "static/media/kayak1.jpg": "/buziosmaravilloso/static/media/kayak1.ac694bdba0c1055a48bc.jpg",
+    "static/media/canoa1.jpg": "/buziosmaravilloso/static/media/canoa1.3b79672362f305fa332b.jpg",
+    "static/media/buceo2.jpg": "/buziosmaravilloso/static/media/buceo2.9a0f76f4bd14baba742b.jpg",
     "static/media/jokerman.ttf": "/buziosmaravilloso/static/media/jokerman.edec23402db3b372976c.ttf",
+    "static/media/kayak2.jpg": "/buziosmaravilloso/static/media/kayak2.d580effaeea1ecbb494d.jpg",
+    "static/media/kayak3.jpg": "/buziosmaravilloso/static/media/kayak3.afd146052a26f3dd3d04.jpg",
     "index.html": "/buziosmaravilloso/index.html",
-    "main.2db96c9b.css.map": "/buziosmaravilloso/static/css/main.2db96c9b.css.map",
-    "main.2f8f93a4.js.map": "/buziosmaravilloso/static/js/main.2f8f93a4.js.map",
-    "845.0d09d2aa.chunk.js.map": "/buziosmaravilloso/static/js/845.0d09d2aa.chunk.js.map"
+    "main.728cec20.css.map": "/buziosmaravilloso/static/css/main.728cec20.css.map",
+    "main.f3407b2a.js.map": "/buziosmaravilloso/static/js/main.f3407b2a.js.map",
+    "845.b22382d3.chunk.js.map": "/buziosmaravilloso/static/js/845.b22382d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2db96c9b.css",
-    "static/js/main.2f8f93a4.js"
+    "static/css/main.728cec20.css",
+    "static/js/main.f3407b2a.js"
   ]
 }
