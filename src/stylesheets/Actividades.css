@@ -1,0 +1,34 @@
+.seccionActividades{
+	height:auto;
+	width: 100%;
+	font-family: Arial;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	align-items: center;	
+
+}
+
+.seccionActividades article{
+	width: 100%;
+	
+}
+
+.seccionActividades article p{
+	text-align: justify;
+	font-size: 1.5em;
+}
+
+.final{
+	clear: both;
+}
+
+@media screen and (max-width: 480px) { /* pantalla hasta 480px */
+
+.seccionActividades article p{
+	font-size: 0.8em;
+
+}
+
+
+}

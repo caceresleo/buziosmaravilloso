@@ -98,9 +98,9 @@ const pararMusica = () => {
               <NavDropdown.Item as={Link} onClick={()=>seleccion("buceo")} to="/actividades/buceo">Buceo</NavDropdown.Item>
               <NavDropdown.Divider />              
               <NavDropdown.Item as={Link} onClick={()=>seleccion("kayak")} to="/actividades/kayak">kayak</NavDropdown.Item>
-              <NavDropdown.Divider />              
-              <NavDropdown.Item as={Link} onClick={()=>seleccion("snorkel")} to="/actividades/snorkel">Snorkel</NavDropdown.Item>   
-              <NavDropdown.Divider />              
+              <NavDropdown.Divider />  
+              <NavDropdown.Item as={Link} onClick={()=>seleccion("moto")} to="/actividades/moto">Moto</NavDropdown.Item>
+              <NavDropdown.Divider />                            
               <NavDropdown.Item as={Link} onClick={()=>seleccion("canoa")} to="/actividades/canoa">Canoa Hawaiana</NavDropdown.Item>                         
             </NavDropdown> 
             <NavDropdown title="Alquiler de Vehículos" bsPrefix="itemsmenu" id="alquiler-nav-dropdown">
@@ -195,69 +195,3 @@ export default NavegacionPpal;
 
 */
 
-/*
-
-    <div>
-    <Navbar collapseOnSelect className="navBg" variant="dark" expand="lg">
-      <Container id="contenedorMenu">
-        <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-        <Navbar.Collapse id="responsive-navbar-nav">
-          <Nav className="me-auto">
-            <Nav.Link as={Link} className={({ isActive }) => (isActive ? "active" : "") } bsPrefix="itemsmenu" to="/presentacion">Presentación</Nav.Link>
-            <NavDropdown  title="Alojamientos " bsPrefix="itemsmenu" id="alojamiento-nav-dropdown">
-              <NavDropdown.Item as={Link} onClick={()=>rocola("posadas")} onMouseEnter={() => pararMusica()} to="/alojamientos/posadas">Posadas</NavDropdown.Item>
-              <NavDropdown.Divider />              
-              <NavDropdown.Item as={Link} onClick={()=>rocola("casas")} onMouseEnter={() => pararMusica()} to="/alojamientos/casas">Casas</NavDropdown.Item>
-              <NavDropdown.Divider />              
-              <NavDropdown.Item as={Link} onClick={()=>rocola("apartamentos")} onMouseEnter={() => pararMusica()} to="/alojamientos/apartamentos">Apartamentos</NavDropdown.Item>
-            </NavDropdown>
-
-
-            <NavDropdown title="Traslados" bsPrefix="itemsmenu" id="traslados-nav-dropdown">
-              <NavDropdown.Item as={Link} onClick={()=>seleccion("regular")} to="/traslados/regular">Regular</NavDropdown.Item>
-              <NavDropdown.Divider />              
-              <NavDropdown.Item as={Link} onClick={()=>seleccion("privado")} to="/traslados/privado">Privado</NavDropdown.Item>
-            </NavDropdown>  
-            <NavDropdown title="Excrusiones" bsPrefix="itemsmenu" id="excursiones-nav-dropdown">
-              <NavDropdown.Item as={Link} onClick={()=>seleccion("rio")} to="/excursiones/rio">Rio de Janeiro</NavDropdown.Item>
-              <NavDropdown.Divider />              
-              <NavDropdown.Item as={Link} onClick={()=>seleccion("arraial")} to="/excursiones/arraial">Arraial do Cabo</NavDropdown.Item>
-              <NavDropdown.Divider />              
-              <NavDropdown.Item as={Link} onClick={()=>seleccion("barco")} to="/excursiones/barco">Barco</NavDropdown.Item>   
-              <NavDropdown.Divider />              
-              <NavDropdown.Item as={Link} onClick={()=>seleccion("buggy")} to="/excursiones/buggy">Buggy</NavDropdown.Item>                         
-            </NavDropdown> 
-            <NavDropdown title="Actividades" bsPrefix="itemsmenu" id="actividades-nav-dropdown">
-              <NavDropdown.Item as={Link} onClick={()=>seleccion("buceo")} to="/actividades/buceo">Buceo</NavDropdown.Item>
-              <NavDropdown.Divider />              
-              <NavDropdown.Item as={Link} onClick={()=>seleccion("kayak")} to="/actividades/kayak">kayak</NavDropdown.Item>
-              <NavDropdown.Divider />              
-              <NavDropdown.Item as={Link} onClick={()=>seleccion("snorkel")} to="/actividades/snorkel">Snorkel</NavDropdown.Item>   
-              <NavDropdown.Divider />              
-              <NavDropdown.Item as={Link} onClick={()=>seleccion("canoa")} to="/actividades/canoa">Canoa Hawaiana</NavDropdown.Item>                         
-            </NavDropdown> 
-            <NavDropdown title="Alquiler de Vehículos" bsPrefix="itemsmenu" id="alquiler-nav-dropdown">
-              <NavDropdown.Item as={Link} onClick={()=>seleccion("alqauto")} to="/alquiler/alqauto">Auto</NavDropdown.Item>
-              <NavDropdown.Divider />              
-              <NavDropdown.Item as={Link} onClick={()=>seleccion("alqbuggy")} to="/alquiler/alqbuggy">Buggy</NavDropdown.Item>
-            </NavDropdown>  
-            <NavDropdown title="Playas" bsPrefix="itemsmenu" id="playas-nav-dropdown">
-              <NavDropdown.Item as={Link} onClick={()=>seleccion("play1")} to="/playas/pl1">Playa1</NavDropdown.Item>
-              <NavDropdown.Divider />              
-              <NavDropdown.Item as={Link} onClick={()=>seleccion("play2")} to="/playas/pl2">Playa2</NavDropdown.Item>
-              <NavDropdown.Divider />              
-              <NavDropdown.Item as={Link} onClick={()=>seleccion("play3")} to="/playas/pl3">Playa3</NavDropdown.Item>   
-              <NavDropdown.Divider />              
-              <NavDropdown.Item as={Link} onClick={()=>seleccion("play4")} to="/playas/pl4">Playa4</NavDropdown.Item>                         
-            </NavDropdown>              
-
-            <Nav.Link as={Link} className={({ isActive }) => (isActive ? "active" : "") } onClick={()=>seleccion("opiniones")} bsPrefix="itemsmenu" to="/opiniones">Opiniones</Nav.Link>
-          </Nav>
-        </Navbar.Collapse>  
-        </Container>
-    </Navbar>
-   </div>
-
-
-           
-*/

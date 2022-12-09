@@ -32,6 +32,10 @@ import Presentacion from "./componentes/paginas/Presentacion";
 import Posadas from "./componentes/paginas/Posadas";
 import Casas from "./componentes/paginas/Casas";
 import Apartamentos from "./componentes/paginas/Apartamentos";
+import Buceo from "./componentes/paginas/Buceo";
+import Kayak from "./componentes/paginas/Kayak";
+import Canoa from "./componentes/paginas/Canoa";
+import Moto from "./componentes/paginas/Moto";
 
 
 function App() {
@@ -68,6 +72,10 @@ function App() {
                         <Route path="/alojamientos/casas" element={<Casas />} />          
                         <Route path="/alojamientos/apartamentos" element={<Apartamentos />} />    
 
+                        <Route path="/actividades/buceo" element={<Buceo />} />
+                        <Route path="/actividades/kayak" element={<Kayak />} />      
+                        <Route path="/actividades/canoa" element={<Canoa />} /> 
+                        <Route path="/actividades/moto" element={<Moto />} /> 
 
                       </Routes>  
             </div>   
