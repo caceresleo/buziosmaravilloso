@@ -23,10 +23,9 @@ const Casas = () => {
 			<ImageSlider slides={slides} />
 		   </div>
 
-		   <div className='mensajes'>Tenemos variedad de casas totalmente equipadas, con capacidad de hasta 
-		   doce personas, y en la proximidad de alguna de las playas más famosas. La elección de los mismos será 
-		   en función tu preferencia, y para facilitar la tarea, te asesoraré en todos los detalles 
-		   que quieras conocer. </div>
+		   <div className='mensajes'>Hay una gran variedad de casas totalmente equipadas, con capacidad de hasta 
+		   doce personas, y en la proximidad de alguna de las playas más bonitas. Podrás elegir las mismas según tu preferencia
+		   y presupuesto. Te puedo ayudar en la búsqueda, asesorándote en todo lo que necesites. </div>
 	
 		</div>
 		)

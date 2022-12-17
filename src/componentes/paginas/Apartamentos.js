@@ -21,10 +21,10 @@ const Apartamentos = () => {
 			<ImageSlider slides={slides} />
 		   </div>
 
-		   <div className='mensajes'>Tenemos variedad de Apartamentos totalmente equipados, con 
+		   <div className='mensajes'>Hay apartamentos totalmente equipados, con 
 		   capacidad de hasta cinco personas, y en la proximidad de alguna de las playas más famosas. 
 		   La elección de los mismos será en función de tu preferencia, y para facilitar la tarea, 
-		   te asesoraré en todos los detalles que quieras conocer.</div>
+		   te ayudaré, contándote todas las características y detalles que necesites.</div>
 	
 		</div>
 		)

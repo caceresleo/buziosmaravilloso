@@ -24,12 +24,12 @@ const Posadas = () => {
 			<ImageSlider slides={slides} />
 		   </div>
 
-		   <div className='mensajes'><p>Tenemos variedad de posadas que cuentan en su totalidad con excelente atención, 
+		   <div className='mensajes'><p>Hay una amplia variedad de posadas, que cuentan en su totalidad con excelente atención, 
 			desayuno brasilero, están ubicadas cerca de la famosa "Rua das Pedras" y en la 
-			proximidad de alguna de las playas más famosas. </p>
+			proximidad de las playas más bonitas. </p>
 			<p>Además, algunas cuentan con sala de juegos, piscina, sauna y vista al mar. La 
 			elección la misma será en función tu preferencia y para facilitar la tarea, te 
-			asesoraré en todos los detalles que quieras conocer. </p></div>	
+			voy a asesorar en todos los detalles que quieras conocer. </p></div>	
 		</div>
 		)
 }
