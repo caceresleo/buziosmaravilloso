@@ -38,6 +38,12 @@ import Canoa from "./componentes/paginas/Canoa";
 import Moto from "./componentes/paginas/Moto";
 import AlqAuto from "./componentes/paginas/AlqAuto";
 import AlqBuggy from "./componentes/paginas/AlqBuggy";
+import Traslados from "./componentes/paginas/Traslados";
+
+import Rio from "./componentes/paginas/Rio";
+import Arrial from "./componentes/paginas/Arrial";
+import Barco from "./componentes/paginas/Barco";
+import Buggy from "./componentes/paginas/Buggy";
 
 
 function App() {
@@ -74,6 +80,15 @@ function App() {
                         <Route path="/alojamientos/posadas" element={<Posadas />} />      
                         <Route path="/alojamientos/casas" element={<Casas />} />          
                         <Route path="/alojamientos/apartamentos" element={<Apartamentos />} />    
+
+                        <Route path="/traslados" element={<Traslados />} />    
+
+                        <Route path="/excursiones/rio" element={<Rio />} />
+                        <Route path="/excursiones/arrial" element={<Arrial />} />      
+                        <Route path="/excursiones/barco" element={<Barco />} /> 
+                        <Route path="/excursiones/moto" element={<Moto />} />                  
+                        <Route path="/excursiones/buggy" element={<Buggy />} />                  
+
 
                         <Route path="/actividades/buceo" element={<Buceo />} />
                         <Route path="/actividades/kayak" element={<Kayak />} />      

@@ -5,9 +5,9 @@ import moto1 from "../../imagenes/actividades/moto1.jpg";
 import moto2 from "../../imagenes/actividades/moto2.jpg";
 
 
-const Buceo = () => {
+const Moto = () => {
 	return (
-		<section className="seccionActividades container">
+		<section className="seccionActividades container-lg">
 					<h1> Paseo en Moto Eléctrica </h1>
 
 			<article>
@@ -25,4 +25,4 @@ const Buceo = () => {
 		)
 }
 
-export default Buceo;
+export default Moto;

@@ -6,7 +6,7 @@ const Presentacion = () => {
 	return (
 		<div className="contenidoPresentacion">
 
-		  <section className="container">
+		  <section className="container-lg">
 		    <article>
 
 				<img className="fotoPresentacion" src={imagen} alt="foto presentacion" />
